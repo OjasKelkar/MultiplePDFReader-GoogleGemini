@@ -18,8 +18,11 @@ Streamlit for building a user-friendly interface.
 
 bash
 Copy code
+
 git clone https://github.com/your-username/multi-pdf-reader.git
+
 cd multi-pdf-reader
+
 Create a virtual environment:
 
 bash
