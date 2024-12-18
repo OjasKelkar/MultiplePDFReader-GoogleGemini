@@ -43,8 +43,11 @@ Add them to your environment variables or a .env file.
 Run the application:
 
 bash
+
 Copy code
+
 streamlit run app.py
+
 Upload your PDF files using the interface.
 
 Interact with the documents by typing queries in the chatbox. The system will use Google Gemini to interpret your query and FAISS to fetch relevant content.
